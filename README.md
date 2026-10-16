@@ -35,11 +35,6 @@ The proposed design uses a forest-green and warm off-white palette, minimal typo
 
 The project prioritizes clear communication, document preparation before KYC, transparent verification states, and a non-coercive first-investment experience.
 
-## Tools
-
-- Google Stitch — AI-assisted UI design
-- GitHub — Project storage and portfolio presentation
-
 ## Project Status
 
 UI/UX design concept. Actual implementation, accessibility validation, performance testing, and compliance review are separate steps.
